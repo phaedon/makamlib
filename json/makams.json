@@ -1,7 +1,7 @@
 {
-    "acemasiran" : {
-	"name" : "Acemaşiran",
-	"karar" : "acemasiran",
+    "acem_asiran" : {
+	"name" : "acem aşîrân",
+	"karar" : "acem_asiran",
 	"seyir" : {
 	    "turkish" : {
 		"TCB" : null,
@@ -15,8 +15,8 @@
 	}
     },
 
-    "acemkurdi" : {
-	"name" : "Acemkürdi",
+    "acem_kurdi" : {
+	"name" : "acem kürdi",
 	"karar" : "dugah",
 	"seyir" : {
 	    "turkish" : null,
@@ -25,8 +25,8 @@
     },
 
     "beyati" : {
-	"name" : "Beyati",
-	"name_alternate" : "Bayati",
+	"name" : "beyati",
+	"name_alternate" : "bayati",
 	"karar" : "dugah",
 	"seyir" : {
 	    "turkish" : null,
@@ -36,7 +36,7 @@
     },
 
     "buselik" : {
-	"name" : "Buselik",
+	"name" :   "bûselik",
 	"karar": "dugah",
 	"seyir" : {
 	    "turkish" : null,
@@ -46,15 +46,37 @@
     },
 
     "buzurk" : {
-	"name" : "Büzürk",
-	"karar" : null,
+	"name" : "büzürk",
+	"name_alternate" : "büzürg",
+	"karar" : "rast",
 	"seyir" : {
 	    "turkish" : null,
 	    "english" : null
 	}
 
-    }
+    },
 
+    "dilkes_haveran" : {
+        "name" : "dilkeSH ha^vera^n",
+     	"karar" : null
+    },
+
+    "dilkeside" : {
+	"name" : "dilkeSHide"
+    },
     
+    "dugah" : {
+	"name" : "dügâh",
+	"karar" : "dugah"
+    },
 
+    "evcara" : {
+	"name" : "evcara",
+	"name_alternate" : "evicArA"
+    }, 
+
+    "evic" : {
+	"name" : "eviç",
+	"karar": "evic"
+    }
 }
