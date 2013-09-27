@@ -58,11 +58,7 @@
 
     "dilkes_haveran" : {
         "name" : "dilkeSH ha^vera^n",
-     	"karar" : null
-    },
-
-    "dilkeside" : {
-	"name" : "dilkeSHide"
+     	"karar" : "irak"
     },
     
     "dugah" : {
@@ -72,7 +68,8 @@
 
     "evcara" : {
 	"name" : "evcara",
-	"name_alternate" : "evicArA"
+	"name_alternate" : "evicArA",
+	"karar" : "irak"
     }, 
 
     "evic" : {
